@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saelhabchi\\source\\repos\\ASP.NET-Web-API\\ProductManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA52130-23A8-4BFB-B737-904272D03E7A}|..\\ServiceLayer\\ServiceLayer.csproj|c:\\users\\saelhabchi\\source\\repos\\asp.net-web-api\\servicelayer\\mapper\\categorymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6249800F-4AD0-4E35-B53A-B8D9F102C0A5}|ProductManagementAPI.csproj|c:\\users\\saelhabchi\\source\\repos\\asp.net-web-api\\productmanagementapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6249800F-4AD0-4E35-B53A-B8D9F102C0A5}|ProductManagementAPI.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA52130-23A8-4BFB-B737-904272D03E7A}|..\\ServiceLayer\\ServiceLayer.csproj|c:\\users\\saelhabchi\\source\\repos\\asp.net-web-api\\servicelayer\\service\\categoryservice\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA52130-23A8-4BFB-B737-904272D03E7A}|..\\ServiceLayer\\ServiceLayer.csproj|c:\\users\\saelhabchi\\source\\repos\\asp.net-web-api\\servicelayer\\mapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA52130-23A8-4BFB-B737-904272D03E7A}|..\\ServiceLayer\\ServiceLayer.csproj|c:\\users\\saelhabchi\\source\\repos\\asp.net-web-api\\servicelayer\\service\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA52130-23A8-4BFB-B737-904272D03E7A}|..\\ServiceLayer\\ServiceLayer.csproj|c:\\users\\saelhabchi\\source\\repos\\asp.net-web-api\\servicelayer\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA52130-23A8-4BFB-B737-904272D03E7A}|..\\ServiceLayer\\ServiceLayer.csproj|c:\\users\\saelhabchi\\source\\repos\\asp.net-web-api\\servicelayer\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BCF714-1CBB-4143-9E8D-F47FA6FB0DF6}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\saelhabchi\\source\\repos\\asp.net-web-api\\repositorylayer\\extension\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BCF714-1CBB-4143-9E8D-F47FA6FB0DF6}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\saelhabchi\\source\\repos\\asp.net-web-api\\repositorylayer\\repository\\categoryrepo\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BCF714-1CBB-4143-9E8D-F47FA6FB0DF6}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\saelhabchi\\source\\repos\\asp.net-web-api\\repositorylayer\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BCF714-1CBB-4143-9E8D-F47FA6FB0DF6}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\saelhabchi\\source\\repos\\asp.net-web-api\\repositorylayer\\repository\\productrepo\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\saelhabchi\\source\\repos\\ASP.NET-Web-API\\ServiceLayer\\Service\\CategoryService\\CategoryService.cs",
+              "RelativeDocumentMoniker": "..\\ServiceLayer\\Service\\CategoryService\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\saelhabchi\\source\\repos\\ASP.NET-Web-API\\ServiceLayer\\Service\\CategoryService\\CategoryService.cs",
+              "RelativeToolTip": "..\\ServiceLayer\\Service\\CategoryService\\CategoryService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:39:27.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\saelhabchi\\source\\repos\\ASP.NET-Web-API\\ProductManagementAPI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\saelhabchi\\source\\repos\\ASP.NET-Web-API\\ProductManagementAPI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:38:36.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\saelhabchi\\source\\repos\\ASP.NET-Web-API\\ServiceLayer\\Mapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "..\\ServiceLayer\\Mapper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\saelhabchi\\source\\repos\\ASP.NET-Web-API\\ServiceLayer\\Mapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "..\\ServiceLayer\\Mapper\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:38:19.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryMapper.cs",
+              "DocumentMoniker": "C:\\Users\\saelhabchi\\source\\repos\\ASP.NET-Web-API\\ServiceLayer\\Mapper\\CategoryMapper.cs",
+              "RelativeDocumentMoniker": "..\\ServiceLayer\\Mapper\\CategoryMapper.cs",
+              "ToolTip": "C:\\Users\\saelhabchi\\source\\repos\\ASP.NET-Web-API\\ServiceLayer\\Mapper\\CategoryMapper.cs",
+              "RelativeToolTip": "..\\ServiceLayer\\Mapper\\CategoryMapper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:37:56.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\saelhabchi\\source\\repos\\ASP.NET-Web-API\\ServiceLayer\\Service\\CategoryService\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "..\\ServiceLayer\\Service\\CategoryService\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\saelhabchi\\source\\repos\\ASP.NET-Web-API\\ServiceLayer\\Service\\CategoryService\\ICategoryService.cs",
+              "RelativeToolTip": "..\\ServiceLayer\\Service\\CategoryService\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:37:38.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\saelhabchi\\source\\repos\\ASP.NET-Web-API\\ServiceLayer\\DTO\\ProductDto.cs",
+              "RelativeDocumentMoniker": "..\\ServiceLayer\\DTO\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\saelhabchi\\source\\repos\\ASP.NET-Web-API\\ServiceLayer\\DTO\\ProductDto.cs",
+              "RelativeToolTip": "..\\ServiceLayer\\DTO\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:37:22.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\saelhabchi\\source\\repos\\ASP.NET-Web-API\\ServiceLayer\\DTO\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "..\\ServiceLayer\\DTO\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\saelhabchi\\source\\repos\\ASP.NET-Web-API\\ServiceLayer\\DTO\\CategoryDto.cs",
+              "RelativeToolTip": "..\\ServiceLayer\\DTO\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:37:19.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\saelhabchi\\source\\repos\\ASP.NET-Web-API\\RepositoryLayer\\Extension\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Extension\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\saelhabchi\\source\\repos\\ASP.NET-Web-API\\RepositoryLayer\\Extension\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Extension\\ServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:36:29.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\saelhabchi\\source\\repos\\ASP.NET-Web-API\\RepositoryLayer\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\saelhabchi\\source\\repos\\ASP.NET-Web-API\\RepositoryLayer\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:35:29.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\saelhabchi\\source\\repos\\ASP.NET-Web-API\\RepositoryLayer\\Repository\\CategoryRepo\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Repository\\CategoryRepo\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\saelhabchi\\source\\repos\\ASP.NET-Web-API\\RepositoryLayer\\Repository\\CategoryRepo\\CategoryRepository.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Repository\\CategoryRepo\\CategoryRepository.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:35:11.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\saelhabchi\\source\\repos\\ASP.NET-Web-API\\RepositoryLayer\\Repository\\ProductRepo\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Repository\\ProductRepo\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\saelhabchi\\source\\repos\\ASP.NET-Web-API\\RepositoryLayer\\Repository\\ProductRepo\\IProductRepository.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Repository\\ProductRepo\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:35:06.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
